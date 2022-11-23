@@ -1,3 +1,4 @@
-## Idea
+##Use Link Below to view project
+http://exodera.github.io/birthday-reminder
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+
